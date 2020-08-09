@@ -1,0 +1,1 @@
+kubectl create configmap -n myapp index --from-file=index.html
